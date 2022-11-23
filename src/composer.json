@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/src",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitrii Martynov",
+      "email": "dm@writecode.art"
+    }
+  ],
+  "require": {
+  }
+}
