@@ -6,4 +6,18 @@
     height: 100%;
     overflow: hidden;
   }
+
+  &__price-hint {
+    position: fixed;
+    top: 24px;
+    right: 20px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .index-page {
+    &__price-hint {
+      left: 20px;
+    }
+  }
 }

@@ -1,0 +1,20 @@
+{
+    "en": {
+        "avg_price": "Average price",
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low"
+    },
+    "ru": {
+        "avg_price": "Средняя цена",
+        "high": "Высокий",
+        "medium": "Средний",
+        "low": "Низкий"
+    },
+    "ar": {
+        "avg_price": "Average price",
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low"
+    }
+}

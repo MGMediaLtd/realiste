@@ -1561,6 +1561,7 @@
     prettier "^1.18.2 || ^2.0.0"
 
 "@vue/vue-loader-v15@npm:vue-loader@^15.9.7", vue-loader@^15.9.7:
+  name "@vue/vue-loader-v15"
   version "15.10.1"
   resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.10.1.tgz#c451c4cd05a911aae7b5dbbbc09fb913fb3cca18"
   integrity sha512-SaPHK1A01VrNthlix6h1hq4uJu7S/z0kdLUb6klubo738NeQoLbS6V9/d8Pv19tU0XdQKju3D1HSKuI8wJ5wMA==
@@ -6138,6 +6139,11 @@ slice-ansi@^4.0.0:
     ansi-styles "^4.0.0"
     astral-regex "^2.0.0"
     is-fullwidth-code-point "^3.0.0"
+
+smooth-polyline@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/smooth-polyline/-/smooth-polyline-1.0.8.tgz#010f790a65aae8f29a7282f2039f915268c94da2"
+  integrity sha512-g/yo3jbAPYuhC50iMIhfE+FPLV/nP63ek9mNKUFWbZ9pUbpKHwAyr+Jda8khpPz0jwVvXXuFHm6KCVLh6bImxw==
 
 sockjs@^0.3.24:
   version "0.3.24"
