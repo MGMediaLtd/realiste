@@ -4,7 +4,7 @@ const path = require("path")
 module.exports = defineConfig({
     transpileDependencies: true,
     publicPath: '/',
-    outputDir: 'docs',
+    outputDir: 'dist',
     devServer: {
       proxy: {
         '/api': {
